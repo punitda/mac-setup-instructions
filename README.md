@@ -16,7 +16,7 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 
 - [Zsh Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
   ```
-  git clone https:://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
+  git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
   ```
 - [Zsh Syntax Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
   ```
